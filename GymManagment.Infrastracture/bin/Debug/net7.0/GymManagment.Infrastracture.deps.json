@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GymManagment.Infrastracture/1.0.0": {
+        "dependencies": {
+          "GymManagment.Application": "1.0.0"
+        },
+        "runtime": {
+          "GymManagment.Infrastracture.dll": {}
+        }
+      },
+      "GymManagment.Application/1.0.0": {
+        "dependencies": {
+          "GymManagment.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GymManagment.Application.dll": {}
+        }
+      },
+      "GymManagment.Domain/1.0.0": {
+        "runtime": {
+          "GymManagment.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManagment.Infrastracture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagment.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GymManagment.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

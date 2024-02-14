@@ -1,0 +1,17 @@
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Infrastracture.deps.json
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Infrastracture.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Infrastracture.pdb
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Application.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Domain.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Application.pdb
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\bin\Debug\net7.0\GymManagment.Domain.pdb
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.csproj.AssemblyReference.cache
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.AssemblyInfoInputs.cache
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.AssemblyInfo.cs
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.csproj.CopyComplete
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\refint\GymManagment.Infrastracture.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.pdb
+C:\Users\brani\OneDrive\Desktop\GymManagment\GymManagment.Infrastracture\obj\Debug\net7.0\ref\GymManagment.Infrastracture.dll
