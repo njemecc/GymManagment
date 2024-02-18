@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lvXdZopon50TunCOQlK4CCiUM6BUDq6eFFJuok19ggLjEJUKJiA6WclctiMh8/e3j3EP78xDZ2dEzuT6UNbNKQ==",
+  "dgSpecHash": "w3WMBYhvBRitJ600ATlSs0BvyOHSdhiS10kF0wqMl0jYvtIT5ltl20gXSBMCwN8ocXCyPkszj8LZLnp4s9ijdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\brani\\OneDrive\\Desktop\\GymManagment\\src\\GymManagment.Infrastracture\\GymManagment.Infrastracture.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brani\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

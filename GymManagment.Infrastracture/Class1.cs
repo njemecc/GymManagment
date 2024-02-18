@@ -1,5 +1,5 @@
-﻿namespace GymManagment.Infrastracture;
-public class Class1
+namespace GymManagment.Infrastracture;
+public class lass1
 {
 
 }

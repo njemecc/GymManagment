@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "BKFKgmtn2vL2QELVCLPk+0yYnC2q6nwjJIB9qU86K/UQQw8QOeMDOjPYLnW8kpB2hUR4oLdDmHiDbK3U+pp1Ow==",
+  "dgSpecHash": "vFka2jwoi5+j2F64+R1wY1YpVbYzXaLf94b3rk56Meyke1EEGMPDUjdDK8TkoGHu89hZ9JmY6Shh/0Z2sNRFaw==",
   "success": true,
   "projectFilePath": "C:\\Users\\brani\\OneDrive\\Desktop\\GymManagment\\src\\GymManagment.Api\\GymManagment.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\brani\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
