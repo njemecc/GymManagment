@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "62KGPq3lniXDR1bpCyFm9pB4KjlVH5YSi1RcMHqw54VDhp5JXrUceYFIaqP2va/XDLsJwYQ4zwhcZXyRxgz75g==",
+  "dgSpecHash": "AwVu7rQVxAEIDvicx8oSKrUDn/XrLXEEOXDHihbXJ0M+AQXFn4oMYn76puTinqZojNq5f9Wks5lNFH98QudXwg==",
   "success": true,
   "projectFilePath": "C:\\Users\\brani\\OneDrive\\Desktop\\GymManagment\\src\\GymManagment.Domain\\GymManagment.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

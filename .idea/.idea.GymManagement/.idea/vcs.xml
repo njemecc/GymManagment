@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../POSGANIZE/POSganize_frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../POSGANIZE/Posganize.be" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../eventapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../kopijatrening" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../personaltrainerapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../typescript-algorithms" vcs="Git" />
   </component>
 </project>

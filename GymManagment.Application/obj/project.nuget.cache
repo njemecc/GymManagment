@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "gW/Kf+1nCJvD4WA3UXNi0oEsMjBwyEV0nXOSfkGWBtSKks8MEe6D40MVg274c1/SyL1l2v3e6cojOKhrQdaLlA==",
+  "dgSpecHash": "0gMCxdBpTN/E2B43J/2zoJ4jLLavR3cI7jx7n8gVSXBFlOH5bH9j83Zx16WtFQkICkLTQ9TelFGtOA7ZeH+NyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\brani\\OneDrive\\Desktop\\GymManagment\\src\\GymManagment.Application\\GymManagment.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brani\\.nuget\\packages\\erroror\\1.10.0\\erroror.1.10.0.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\brani\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\brani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []
 }

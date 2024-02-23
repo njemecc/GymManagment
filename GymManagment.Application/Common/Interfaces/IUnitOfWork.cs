@@ -1,6 +1,6 @@
 namespace GymManagment.Application.Common.Interfaces;
 
-public class IUnitOfWork
+public interface IUnitOfWork
 {
-    
+    Task CommitChangesAsync();
 }

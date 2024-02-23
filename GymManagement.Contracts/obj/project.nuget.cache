@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "67Khqu6nS8+FwPPxmWenQ8RwfKgxlVdFJeeC/OvrD1dLYB9a48HYuMlnbTzZ47/swPvaZZltL6ztU3PMCIWslA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brani\\OneDrive\\Desktop\\GymManagment\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\brani\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

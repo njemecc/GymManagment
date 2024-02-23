@@ -61,9 +61,22 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "GymManagement.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/GymManagement.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManagement.Contracts.dll": {}
+        }
+      },
       "GymManagment.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "GymManagement.Contracts": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/GymManagment.Domain.dll": {}
         },
@@ -153,6 +166,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "GymManagement.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../GymManagement.Contracts/GymManagement.Contracts.csproj",
+      "msbuildProject": "../GymManagement.Contracts/GymManagement.Contracts.csproj"
+    },
     "GymManagment.Domain/1.0.0": {
       "type": "project",
       "path": "../GymManagment.Domain/GymManagment.Domain.csproj",
@@ -234,12 +252,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

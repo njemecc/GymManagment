@@ -28,3 +28,4 @@ C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Application\obj\De
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Application\obj\Debug\net7.0\refint\GymManagment.Application.dll
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Application\obj\Debug\net7.0\GymManagment.Application.pdb
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Application\obj\Debug\net7.0\ref\GymManagment.Application.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Application\obj\Debug\net7.0\GymManagment.Application.sourcelink.json

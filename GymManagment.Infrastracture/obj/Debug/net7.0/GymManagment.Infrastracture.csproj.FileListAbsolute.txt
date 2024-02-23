@@ -32,3 +32,4 @@ C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Infrastracture\obj
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Infrastracture\obj\Debug\net7.0\refint\GymManagment.Infrastracture.dll
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.pdb
 C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Infrastracture\obj\Debug\net7.0\ref\GymManagment.Infrastracture.dll
+C:\Users\brani\OneDrive\Desktop\GymManagment\src\GymManagment.Infrastracture\obj\Debug\net7.0\GymManagment.Infrastracture.sourcelink.json
